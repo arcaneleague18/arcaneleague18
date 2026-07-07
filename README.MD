@@ -69,13 +69,14 @@ Currently focused on **GenAI applications**, **Computer Vision**, and **full-sta
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=arcaneleague18&hide_title=true&show_icons=true&include_all_commits=true&theme=date_night" height="170"/>
-<img src="https://streak-stats.demolab.com/?user=arcaneleague18&theme=dark&hide_border=true&background=0d1117&ring=c0392b&fire=FF6F00&currStreakLabel=c0392b&sideLabels=8b949e" height="170"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=arcaneleague18&layout=compact&langs_count=4&theme=aura_dark" height="150"/>
-
+  <table><tr>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=arcaneleague18&hide_title=true&show_icons=true&include_all_commits=true&theme=date_night" height="170"/></td>
+    <td><img src="https://streak-stats.demolab.com/?user=arcaneleague18&theme=dark&hide_border=true&background=0d1117&ring=c0392b&fire=FF6F00&currStreakLabel=c0392b&sideLabels=8b949e" height="170"/></td>
+    <td><img src="https://github-stats-extended.vercel.app/api/top-langs?username=arcaneleague18&layout=compact&langs_count=4&theme=aura_dark" height="170"/></td>
+  </tr></table>
 </div>
 
+---
 
 ## Activity Graph
 
