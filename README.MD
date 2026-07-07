@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,100:c0392b&height=200&section=header&text=Varun%20Karli&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26amp%3B%20ML%20Engineering%20%7C%20Full%20Stack%20Dev%20%7C%20GenAI&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+intelligent+systems+from+scratch.;Computer+Vision+%7C+GenAI+%7C+Full+Stack+AI.;Turning+ideas+into+real-world+AI+apps.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=c0392b&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+intelligent+systems+from+scratch.;Computer+Vision+%7C+GenAI+%7C+Full+Stack+AI.;Turning+ideas+into+real-world+AI+apps.)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-karli)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arcaneleague18)
@@ -70,19 +70,17 @@ Currently focused on **GenAI applications**, **Computer Vision**, and **full-sta
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arcaneleague18&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&bg_color=0d1117" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arcaneleague18&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6F00&currStreakLabel=58A6FF&sideLabels=8b949e" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcaneleague18&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=8" height="150"/>
+<img src="https://github-stats-extended.vercel.app/api?username=arcaneleague18&hide_title=true&show_icons=true&include_all_commits=true&theme=date_night" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=arcaneleague18&theme=dark&hide_border=true&background=0d1117&ring=c0392b&fire=FF6F00&currStreakLabel=c0392b&sideLabels=8b949e" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=arcaneleague18&layout=compact&langs_count=4&theme=aura_dark" height="150"/>
 
 </div>
 
----
 
 ## Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcaneleague18&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF&area=true&area_color=1f6feb" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcaneleague18&theme=github-compact&hide_border=true&bg_color=0d1117&color=c0392b&line=c0392b&point=ffffff&area=true&area_color=c0392b" width="100%"/>
 </div>
 
 ---
@@ -97,7 +95,7 @@ Currently focused on **GenAI applications**, **Computer Vision**, and **full-sta
 
 <div align="center">
 
-**Open to internships and collaborations in AI/ML, GenAI, and Full Stack Development.**
+**Open to internships and collaborations in AI/ML, GenAI, and Full Stack AI Development.**
 
 [📬 varunkarli18@gmail.com](mailto:varunkarli18@gmail.com) · [💼 Connect on LinkedIn](https://www.linkedin.com/in/varun-karli)
 
