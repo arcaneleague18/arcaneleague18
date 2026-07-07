@@ -17,7 +17,6 @@ I build real-world AI end-to-end applications at the intersection of **deep lear
 
 Currently focused on **GenAI applications**, **Computer Vision**, and **full-stack AI product development**.
 
----
 
 ## Featured Projects
 
@@ -26,7 +25,7 @@ Currently focused on **GenAI applications**, **Computer Vision**, and **full-sta
 | 🤟 **[Gesture Bridge](https://github.com/arcaneleague18/GestureBridge.git)** | Real-time sign language translator with reverse skeleton animation replay | Python · Keras · MediaPipe · Sarvam AI |
 | 📄 **[T&C Summarizer](https://github.com/arcaneleague18/terms-analyser-streamlit.git)** | Streamlit Application that summarizes Terms & Conditions and flags offensive clauses | LangChain · FastAPI · HuggingFace · Streamlit |
 
----
+
 
 ## Tech Stack
 
@@ -64,19 +63,19 @@ Currently focused on **GenAI applications**, **Computer Vision**, and **full-sta
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+
 
 ## GitHub Stats
 
 <div align="center">
   <table><tr>
-    <td><img src="https://github-stats-extended.vercel.app/api?username=arcaneleague18&hide_title=true&show_icons=true&include_all_commits=true&theme=date_night" height="170"/></td>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=arcaneleague18&hide_title=true&show_icons=true&include_all_commits=true&theme=kacho_ga" height="170"/></td>
     <td><img src="https://streak-stats.demolab.com/?user=arcaneleague18&theme=dark&hide_border=true&background=0d1117&ring=c0392b&fire=FF6F00&currStreakLabel=c0392b&sideLabels=8b949e" height="170"/></td>
-    <td><img src="https://github-stats-extended.vercel.app/api/top-langs?username=arcaneleague18&layout=compact&langs_count=4&theme=aura_dark" height="170"/></td>
+    <td><img src="https://github-stats-extended.vercel.app/api/top-langs?username=arcaneleague18&layout=compact&langs_count=4&theme=kacho_ga" height="170"/></td>
   </tr></table>
 </div>
 
----
+
 
 ## Activity Graph
 
@@ -84,7 +83,7 @@ Currently focused on **GenAI applications**, **Computer Vision**, and **full-sta
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcaneleague18&theme=github-compact&hide_border=true&bg_color=0d1117&color=c0392b&line=c0392b&point=ffffff&area=true&area_color=c0392b" width="100%"/>
 </div>
 
----
+
 
 ## Currently Exploring
 
