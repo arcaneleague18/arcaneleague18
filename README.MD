@@ -71,7 +71,9 @@ Currently focused on **GenAI applications**, **Computer Vision**, and **AI produ
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=arcaneleague18&hide_title=true&show_icons=true&include_all_commits=true&theme=kacho_ga" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=arcaneleague18&theme=dark&hide_border=true&background=0d1117&ring=c0392b&fire=FF6F00&currStreakLabel=c0392b&sideLabels=8b949e" height="170"/>
+  
+  <img src="https://streak-stats.demolab.com/?user=arcaneleague18&theme=dark&hide_border=true&background=331919&ring=c0392b&fire=FF6F00&currStreakLabel=c0392b&sideLabels=8b949e" height="170"/>
+
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=arcaneleague18&layout=compact&langs_count=4&theme=kacho_ga" height="170"/>
 </div>
 
