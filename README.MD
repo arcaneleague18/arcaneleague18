@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,100:c0392b&height=200&section=header&text=Varun%20Karli&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26amp%3B%20ML%20Engineering%20%7C%20Full%20Stack%20Dev%20%7C%20GenAI&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,100:c0392b&height=200&section=header&text=Varun%20Karli&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26amp%3B%20ML%20Engineering%20%7C%20GenAI%7C%20LLMs&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=c0392b&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+intelligent+systems+from+scratch.;Computer+Vision+%7C+GenAI+%7C+Full+Stack+AI.;Turning+ideas+into+real-world+AI+apps.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=c0392b&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+intelligent+systems+from+scratch.;Computer+Vision+%7C+GenAI+%7C+Agentic+AI;Turning+ideas+into+real-world+AI+apps.)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-karli)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arcaneleague18)
@@ -15,7 +15,7 @@
 
 I build real-world AI end-to-end applications at the intersection of **deep learning**, **computer vision**, and **generative AI**. I enjoy going from raw idea to working product.
 
-Currently focused on **GenAI applications**, **Computer Vision**, and **full-stack AI product development**.
+Currently focused on **GenAI applications**, **Computer Vision**, and **AI product development**.
 
 
 ## Featured Projects
@@ -23,7 +23,9 @@ Currently focused on **GenAI applications**, **Computer Vision**, and **full-sta
 | Project | Description | Stack |
 |---|---|---|
 | 🤟 **[Gesture Bridge](https://github.com/arcaneleague18/GestureBridge.git)** | Real-time sign language translator with reverse skeleton animation replay | Python · Keras · MediaPipe · Sarvam AI |
-| 📄 **[T&C Summarizer](https://github.com/arcaneleague18/terms-analyser-streamlit.git)** | Streamlit Application that summarizes Terms & Conditions and flags offensive clauses | LangChain · FastAPI · HuggingFace · Streamlit |
+| ⚖️ **[T&C Summarizer](https://github.com/arcaneleague18/terms-analyser-streamlit.git)** | Streamlit Application that summarizes Terms & Conditions and flags offensive clauses | LangChain · FastAPI · HuggingFace · Streamlit |
+| 🕶️ **[3Dify](https://github.com/arcaneleague18/3Dify.git)** | A web-based tool that takes a standard 2D image and automatically converts it into high-quality 3D stereoscopic formats. | OpenCV · Torch · Transformers · Gradio |
+| 👑 **[Community Hero](https://github.com/arcaneleague18/community-hero.git)** | Hyperlocal problem solver and civic issue reporting platform. Built entirely with AI Studio| AI Studio · React · TypeScript · Firebase |
 
 
 
@@ -41,6 +43,7 @@ Currently focused on **GenAI applications**, **Computer Vision**, and **full-sta
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
@@ -59,7 +62,6 @@ Currently focused on **GenAI applications**, **Computer Vision**, and **full-sta
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -68,11 +70,9 @@ Currently focused on **GenAI applications**, **Computer Vision**, and **full-sta
 ## GitHub Stats
 
 <div align="center">
-  <table><tr>
-    <td><img src="https://github-stats-extended.vercel.app/api?username=arcaneleague18&hide_title=true&show_icons=true&include_all_commits=true&theme=kacho_ga" height="170"/></td>
-    <td><img src="https://streak-stats.demolab.com/?user=arcaneleague18&theme=dark&hide_border=true&background=0d1117&ring=c0392b&fire=FF6F00&currStreakLabel=c0392b&sideLabels=8b949e" height="170"/></td>
-    <td><img src="https://github-stats-extended.vercel.app/api/top-langs?username=arcaneleague18&layout=compact&langs_count=4&theme=kacho_ga" height="170"/></td>
-  </tr></table>
+  <img src="https://github-stats-extended.vercel.app/api?username=arcaneleague18&hide_title=true&show_icons=true&include_all_commits=true&theme=kacho_ga" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=arcaneleague18&theme=dark&hide_border=true&background=0d1117&ring=c0392b&fire=FF6F00&currStreakLabel=c0392b&sideLabels=8b949e" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=arcaneleague18&layout=compact&langs_count=4&theme=kacho_ga" height="170"/>
 </div>
 
 
@@ -95,7 +95,7 @@ Currently focused on **GenAI applications**, **Computer Vision**, and **full-sta
 
 <div align="center">
 
-**Open to internships and collaborations in AI/ML, GenAI, and Full Stack AI Development.**
+**Open to internships and collaborations in AI/ML, GenAI,and Agentic AI**
 
 [📬 varunkarli18@gmail.com](mailto:varunkarli18@gmail.com) · [💼 Connect on LinkedIn](https://www.linkedin.com/in/varun-karli)
 
