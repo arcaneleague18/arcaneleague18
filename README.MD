@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,100:c0392b&height=200&section=header&text=Varun%20Karli&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26amp%3B%20ML%20Engineering%20%7C%20GenAI%7C%20LLMs&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,40:e61a05&height=200&section=header&text=Varun%20Karli&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26amp%3B%20ML%20Engineering%20%7C%20GenAI%7C%20LLMs&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=c0392b&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+intelligent+systems+from+scratch.;Computer+Vision+%7C+GenAI+%7C+Agentic+AI;Turning+ideas+into+real-world+AI+apps.)](https://git.io/typing-svg)
 
@@ -69,11 +69,12 @@ Currently focused on **GenAI applications**, **Computer Vision**, and **AI produ
 
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=arcaneleague18&hide_title=false&show_icons=true&include_all_commits=true&theme=kacho_ga&hide_border=true&cache_seconds=1800&hide=contribs)](https://github.com/arcaneleague18)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=arcaneleague18&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&theme=kacho_ga&hide_border=true&cache_seconds=0&hide=contribs&bg_color=45%2C410000%2CD50000&icon_color=f0e246)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=arcaneleague18&theme=dark&hide_border=true&background=0d1117&ring=c0392b&fire=FF6F00&currStreakLabel=c0392b&sideLabels=8b949e&cache_seconds=1800)](https://github.com/arcaneleague18)
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=arcaneleague18&layout=compact&langs_count=4&theme=kacho_ga&hide_border=true&cache_seconds=1800&hide=C,Typescript)](https://github.com/arcaneleague18)
+[![GitHub Streak](https://streak-stats.demolab.com?user=arcaneleague18&theme=dark&hide_border=true&border_radius=60&background=45%2C410000%2CD50000&ring=FF0000&stroke=000000&currStreakLabel=000000&cache_seconds=0)](https://git.io/streak-stats)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=arcaneleague18&layout=compact&langs_count=4&theme=kacho_ga&hide_border=true&cache_seconds=0&hide=C,Typescript&bg_color=45%2C410000%2CD50000&title_color=c9c9c5)
 
 </div>
 
@@ -81,7 +82,7 @@ Currently focused on **GenAI applications**, **Computer Vision**, and **AI produ
 ## Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcaneleague18&theme=github-compact&hide_border=true&bg_color=0d1117&color=c0392b&line=c0392b&point=ffffff&area=true&area_color=c0392b&cache_seconds=1800" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcaneleague18&theme=github-compact&hide_border=true&bg_color=0d1117&color=c0392b&line=c0392b&point=ffffff&area=true&area_color=c0392b&cache_seconds=0" width="100%"/>
 </div>
 
 
@@ -99,6 +100,6 @@ Currently focused on **GenAI applications**, **Computer Vision**, and **AI produ
 
 [📬 varunkarli18@gmail.com](mailto:varunkarli18@gmail.com) · [💼 Connect on LinkedIn](https://www.linkedin.com/in/varun-karli)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c0392b,100:0d0000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=50:e61a05,100:0d0000&height=100&section=footer" width="100%"/>
 
 </div>
