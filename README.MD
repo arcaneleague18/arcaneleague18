@@ -86,6 +86,17 @@ Currently focused on **GenAI applications**, **Computer Vision**, and **AI produ
 </div>
 
 
+## `[HISTORY]` process trail
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/arcaneleague18/arcaneleague18/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arcaneleague18/arcaneleague18/output/snake.svg"/>
+    <img src="https://raw.githubusercontent.com/arcaneleague18/arcaneleague18/output/snake.svg" width="100%" alt="snake"/>
+  </picture>
+</div>
+
+
 ## Currently Exploring
 
 - Advanced GenAI pipelines — RAG, agents, and multi-modal LLMs
