@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1450 260">
+  <style>
+    .text {
+      font-family: "OCR A", "Courier New", monospace;
+      font-size: 28px;
+      fill: #24292f;
+    }
+    .bold {
+      font-weight: bold;
+      fill: #21a200;
+    }
+    .header {
+      font-family: "OCR A", "Courier New", monospace;
+      font-weight: bold;
+      font-size: 38px;
+      fill: #000000;
+    }
+  </style>
+  <text x="0" y="40" class="header">Hello there.</text>
+  <text x="0" y="95" class="header">About Me</text>
+  <text x="0" y="145" class="text">I build real-world AI end-to-end applications at the intersection of <tspan class="bold">deep learning</tspan>,</text>
+  <text x="0" y="180" class="text"><tspan class="bold">computer vision</tspan>, and <tspan class="bold">generative AI</tspan>. I enjoy going from raw idea to working product.</text>
+  <text x="0" y="235" class="text">Currently focused on <tspan class="bold">GenAI applications</tspan>, <tspan class="bold">Computer Vision</tspan>, and <tspan class="bold">AI product development</tspan>.</text>
+</svg>
