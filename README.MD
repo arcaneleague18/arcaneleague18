@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,40:2bd400&height=200&section=header&text=Varun%20Karli&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26amp%3B%20ML%20Engineering%20%7C%20GenAI%7C%20LLMs&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn&fontFamily=OCR%20A" width="100%"/>
+<img src="./assets/banner.svg " width="80%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=OCR+A&size=18&duration=3000&pause=1000&color=2bd400&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+intelligent+systems+from+scratch.;Computer+Vision+%7C+GenAI+%7C+Agentic+AI;Turning+ideas+into+real-world+AI+apps.)](https://git.io/typing-svg)
 
