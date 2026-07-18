@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg " width="80%" />
+<p align="center"><img src="./assets/ghost.png" width="20%" />&nbsp;&nbsp;&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/about-me-light.svg"><img alt="About Me" src="./assets/banner.svg" width="60%"></picture></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=OCR+A&size=18&duration=3000&pause=1000&color=2bd400&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+intelligent+systems+from+scratch.;Computer+Vision+%7C+GenAI+%7C+Agentic+AI;Turning+ideas+into+real-world+AI+apps.)](https://git.io/typing-svg)
 
@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:varunkarli18@gmail.com)
 </div>
 
-<p align="center"><img src="./assets/ghost.png" width="15%" />&nbsp;&nbsp;&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/about-me-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/about-me-light.svg"><img alt="About Me" src="./assets/about-me-dark.svg" width="75%"></picture></p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/about-me-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/about-me-light.svg"><img alt="About Me" src="./assets/about-me-dark.svg" width="100%"></picture>
 
 
 ## Featured Projects
