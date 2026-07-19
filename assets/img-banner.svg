@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Menlo,Consolas,monospace" font-size="20px" font-weight="bold">
 <style>
   .main{text-shadow:0 0 10px rgba(203,166,247,.65)}
-  .gR{animation:gr 12s steps(2) infinite;opacity:0}
-  .gB{animation:gb 12s steps(2) infinite;opacity:0}
-  .main{animation:jit 12s steps(2) infinite}
-  @keyframes gr{0%,85%{opacity:0;transform:none}86%{opacity:.9;transform:translate(20px,-8px) skewX(8deg)}88%{opacity:.9;transform:translate(-16px,8px) skewX(-8deg)}90%{opacity:.9;transform:translate(10px,-4px)}91%,100%{opacity:0;transform:none}}
-  @keyframes gb{0%,85%{opacity:0;transform:none}86%{opacity:.9;transform:translate(-20px,8px) skewX(-8deg)}88%{opacity:.9;transform:translate(16px,-8px) skewX(8deg)}90%{opacity:.9;transform:translate(-10px,4px)}91%,100%{opacity:0;transform:none}}
-  @keyframes jit{0%,85%,91%,100%{transform:none}86%{transform:translate(8px,0)}88%{transform:translate(-8px,0)}90%{transform:translate(4px,0)}}
+  .gR{animation:gr 6.00s steps(2) infinite;opacity:0}
+  .gB{animation:gb 6.00s steps(2) infinite;opacity:0}
+  .main{animation:jit 6.00s steps(2) infinite}
+  @keyframes gr{0%,86.7%{opacity:0;transform:none}89.3%{opacity:.9;transform:translate(10px,-4px) skewX(8deg)}94.7%{opacity:.9;transform:translate(-8px,4px) skewX(-8deg)}97.3%{opacity:.9;transform:translate(5px,-2px)}99.3%,100%{opacity:0;transform:none}}
+  @keyframes gb{0%,86.7%{opacity:0;transform:none}89.3%{opacity:.9;transform:translate(-10px,4px) skewX(-8deg)}94.7%{opacity:.9;transform:translate(8px,-4px) skewX(8deg)}97.3%{opacity:.9;transform:translate(-5px,2px)}99.3%,100%{opacity:0;transform:none}}
+  @keyframes jit{0%,86.7%,99.3%,100%{transform:none}89.3%{transform:translate(4px,0)}94.7%{transform:translate(-4px,0)}97.3%{transform:translate(2px,0)}}
   @keyframes sweep{from{transform:translateX(-1000px)}to{transform:translateX(1000px)}}
   .sw{animation:sweep 5s linear infinite}
 </style>
