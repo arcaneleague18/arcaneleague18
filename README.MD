@@ -6,7 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-karli)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arcaneleague18)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:varunkarli18@gmail.com)
+[![Email](https://img.shields.io/badge/_varunkarli18%40gmail.com?style=flat-square&logo=gmail&logoColor=white)](mailto:varunkarli18@gmail.com)
+
 </div>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/about-me-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/about-me-light.svg"><img alt="About Me" src="./assets/about-me-dark.svg" width="100%"></picture>
