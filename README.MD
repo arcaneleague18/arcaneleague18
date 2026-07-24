@@ -98,6 +98,6 @@
 
 [📬 varunkarli18@gmail.com](mailto:varunkarli18@gmail.com) · [💼 Connect on LinkedIn](https://www.linkedin.com/in/varun-karli)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=50:2bd400,100:0d0000&height=100&section=footer" width="100%"/>
+<img src="assets/output.svg" width="1000" height="150"/>
 
 </div>
