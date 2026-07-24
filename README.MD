@@ -4,9 +4,23 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=OCR+A&size=18&duration=3000&pause=1000&color=2bd400&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+intelligent+systems+from+scratch.;Computer+Vision+%7C+GenAI+%7C+Agentic+AI;Turning+ideas+into+real-world+AI+apps.)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-karli)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arcaneleague18)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:varunkarli18@gmail.com)
+<p align="center">
+  <a href="https://x.com/VKK174025">
+    <img src="https://img.shields.io/badge/VarunKarli-green?style=for-the-badge&logo=x&logoColor=00ba1b&labelColor=0d1117&color=0d1117">
+  </a>
+  <a href="https://www.linkedin.com/in/varun-karli/">
+    <img src="https://custom-icon-badges.demolab.com/badge/varun%20karli-0A66C2?logo=linkedin-&logoColor=00ba1b&labelColor=0d1117&color=0d1117">
+  </a>
+  <a href="https://t.me/arcanelegend18">
+    <img src="https://img.shields.io/badge/arcanelegend18-0078D4?style=for-the-badge&logo=Telegram&logoColor=00ba1b&labelColor=0d1117&color=0d1117">
+  </a>
+  <a href="https://www.instagram.com/varunkarli_vk?igsh=MTJ6eWpsNjlqMTZ2NQ==">
+    <img src="https://img.shields.io/badge/varunkarli_vk-0078D4?style=for-the-badge&logo=Instagram&logoColor=00ba1b&labelColor=0d1117&color=0d1117">
+  </a>
+  <a href="mailto:varunkarli18@gmail.com">
+    <img src="https://img.shields.io/badge/varunkarli18@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=00ba1b&labelColor=0d1117&color=0d1117">
+  </a>
+</p>
 
 </div>
 
@@ -82,15 +96,6 @@
     <img src="https://raw.githubusercontent.com/arcaneleague18/arcaneleague18/output/snake.svg" width="100%" alt="snake"/>
   </picture>
 </div>
-
-
-## Currently Exploring
-
-- Advanced GenAI pipelines — RAG, agents, and multi-modal LLMs
-- MLOps fundamentals — experiment tracking, model serving, CI/CD for ML
-- Scaling computer vision systems for real-time production use
-
----
 
 <div align="center">
 
