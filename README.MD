@@ -27,7 +27,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/about-me-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/about-me-light.svg"><img alt="About Me" src="./assets/about-me-dark.svg" width="100%"></picture>
 
 
-## Featured Projects
+## `[Featured Projects]`
 
 | Project | Description | Stack |
 |---|---|---|
@@ -37,9 +37,7 @@
 | 👑 **[Community Hero](https://github.com/arcaneleague18/community-hero.git)** | Hyperlocal problem solver and civic issue reporting platform. Built entirely with AI Studio | AI Studio · React · TypeScript · Firebase |
 
 
-## Tech Stack
-
-
+## `[Tech Stack]`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -67,7 +65,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 
-## GitHub Stats
+## `[GitHub Stats]`
 
 <div align="center">
 
@@ -80,7 +78,7 @@
 </div>
 
 
-## Activity Graph
+## `[Activity Graph]`
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arcaneleague18&theme=github-compact&hide_border=true&hide_title=true&bg_color=0d1117&color=21a200&line=21a200&point=ffffff&area=true&area_color=004F03&cache_seconds=0&custom_font=OCR+A" width="100%"/>
