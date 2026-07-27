@@ -22,7 +22,7 @@ jobs:
           github_user_name: arcaneleague18
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/snake-dark.svg?palette=github-dark&color_snake=purple&color_dots=#161b22,#E59B43,#CC691D,#D44E11,#87320B
 
       - name: Publish snake SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
